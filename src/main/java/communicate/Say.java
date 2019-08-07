@@ -1,5 +1,4 @@
-package none;
+package communicate;
 
 public interface Say {
-
 }
